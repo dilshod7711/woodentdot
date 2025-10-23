@@ -6,6 +6,8 @@ import spain from "../assets/img/spain.svg";
 import our1 from "../assets/img/Our1.png";
 import instagram from "../assets/img/instagram.svg";
 import disign1 from "../assets/img/desegn.png";
+import hero1 from "../assets/img/hero1.png"
+import hero2 from "../assets/img/hero2.png"
 export const imgs = [
   {
     id: 1,
@@ -13,15 +15,15 @@ export const imgs = [
   },
   {
     id: 2,
-    img: img1,
+    img: hero1,
   },
   {
     id: 3,
-    img: img1,
+    img: hero2,
   },
   {
     id: 4,
-    img: img1,
+    img: hero3,
   },
 ];
 
