@@ -7,6 +7,7 @@ import Alba from "./components/Alba/Alba";
 import Batea from "./components/Batea/Bate";
 import Our from "./components/Our/Our";
 import Brand from "./components/brand/Brand";
+import Footer from "./components/footer/Footer";
 function App() {
   return (
     <>
@@ -19,6 +20,7 @@ function App() {
       <Batea />
       <Our />
       <Brand />
+      <Footer />
     </>
   );
 }
